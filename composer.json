@@ -1,0 +1,13 @@
+{
+    "name": "javaci/telegram-image-save",
+    "type": "project",
+    "require": {
+        "longman/telegram-bot": "^0.62.0"
+    },
+    "authors": [
+        {
+            "name": "Osman Taha",
+            "email": "iletisim@osmantahakiyicilar.com.tr"
+        }
+    ]
+}
